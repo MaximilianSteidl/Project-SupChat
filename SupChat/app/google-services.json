@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335323825195",
+    "firebase_url": "https://supchat-260cd.firebaseio.com",
+    "project_id": "supchat-260cd",
+    "storage_bucket": "supchat-260cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335323825195:android:acba7c81cca5228df6566e",
+        "android_client_info": {
+          "package_name": "at.fhj.msd.supchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335323825195-c3djepkadlb1j15bvjvgg3fgimpjmmh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-6bVtBrFPwT8LlBXjb-lOwrHWjawJ1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335323825195-c3djepkadlb1j15bvjvgg3fgimpjmmh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
